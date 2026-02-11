@@ -58,3 +58,5 @@ Key Learnings
 - Docker image lifecycle management
 - AWS-based deployment strategy
 - Quality Gate enforcement and secure release process
+
+NOTE : Source code for node-js application was forked from 
